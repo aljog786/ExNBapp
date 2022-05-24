@@ -1,0 +1,26 @@
+{
+  "name": "exnblog",
+  "version": "1.0.0",
+  "description": "Blog app by node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljog786/ExNBapp.git"
+  },
+  "author": "ALJO GEORGE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aljog786/ExNBapp/issues"
+  },
+  "homepage": "https://github.com/aljog786/ExNBapp#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
